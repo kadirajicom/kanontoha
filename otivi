@@ -1,8 +1,3 @@
 #EXTM3U
 #EXTINF:-1 ,Boomerang
-http://ingrid.ltd:25461/frank1/frank/3176.ts
-#EXTINF:-1 ,Cbeebies HD
-http://ingrid.ltd:25461/frank1/frank/3131.ts
-#EXTINF:-1 ,Disney Channel FHD
-http://ingrid.ltd:25461/frank1/frank/3410.ts
-fddsdfdfd
+http://iptvpro3.vision-new.org:8789/get.php?username=mamis01&password=mamis01&type=m3u_plus
