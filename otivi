@@ -1,2 +1,3 @@
-#EXTINF:-1 group-title="Daily Sport" tvg-logo="https://bit.ly/2ZtrO5G",Sky Sport Football +1
-http://bestv.ga:8080/live/sh12m042901/47569890/13124.ts
+#EXTINF:-1 group-title="Daily Sport" tvg-logo="https://bit.ly/2ZtrO5G",Bein Xtra
+https://bein-xtra-roku-us.amagi.tv/amRdirect/rdid=d807042f-1f42-55bc-851d-36b64a7e357c&coppa=false&is_lat=1&content=a8df209d9eb0538c97dce33d0dbf4387&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&bmodel=bm1&studio_id=bein&channel_id=151908&channelStore=us&tags=ROKU_CONTENT_TAGS/hls/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/master.m3u8
+
