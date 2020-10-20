@@ -1,8 +1,60 @@
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.ntvplus.ru/files/image/10/60/28/-channel!3d1.png",Матч ТВ HD
 acestream://781f1e0f92475b086b3988bf45da9fbf88de3e63
+
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Match-Futbol-1-Logo.png",Матч! Футбол 1 HD
 acestream://92550ac34357a69bf6c734145fa359197d62fec0
+
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Match-Futbol-2-Logo.png",Матч! Футбол 2 HD
 acestream://153e4a4098ada1e6150a5e62cdd58db806fddada
+
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Match-Futbol-3-Logo.png",Матч! Футбол 3 HD
+
 acestream://70b20efc8b27aa84025b7fe5752dea186429b08c
+#EXTINF:-1 tvg-logo="https://moomamedia.co.uk/wp-content/uploads/2020/09/Live-Stream.png,Incontro! Football 1 FHD
+acestream://a5d12054e1c080ea8f5923bf51571c567c0ce0f1
+
+#EXTINF:-1 tvg-logo="https://moomamedia.co.uk/wp-content/uploads/2020/09/Live-Stream.png,Incontro! Football 2 FHD
+acestream://ba915425e8ce74a73823a54cf76371a3d005bc0c
+
+#EXTINF:-1 tvg-logo="https://moomamedia.co.uk/wp-content/uploads/2020/09/Live-Stream.png, Incontro! Football 3 FHD
+acestream://
+
+#EXTINF:-1 tvg-logo="https://moomamedia.co.uk/wp-content/uploads/2020/09/Live-Stream.png,Incontro! Premier FHD
+acestream://9c8c6d66eec0af161894f1c4a9d0831da69d9a19
+
+#EXTINF:-1 tvg-logo="https://moomamedia.co.uk/wp-content/uploads/2020/09/Live-Stream.png,Incontro! TV FHD
+acestream://d7480a74ec036740143b584196583ab6f4f258a1
+
+#EXTINF:-1 tvg-logo="https://moomamedia.co.uk/wp-content/uploads/2020/09/Live-Stream.png,Incontro! Gioco FHD
+acestream://86743807871d3f2752d1828e7505873de2d7bd6c
+
+#EXTINF:-1 tvg-logo="https://moomamedia.co.uk/wp-content/uploads/2020/09/Live-Stream.png,Bielorussia 5 FHD
+acestream://b2da1bc7fc11ce8818e9814062688c4655128ae4
+
+#EXTINF:-1 tvg-logo="https://moomamedia.co.uk/wp-content/uploads/2020/09/Live-Stream.png,TV3 SPORT FHD
+acestream://c74326fde78556a275e1402c18c18cb8d1e36a73
+
+#EXTINF:-1 tvg-logo="https://moomamedia.co.uk/wp-content/uploads/2020/09/Live-Stream.png,Football 1 (Ucraina) FHD
+acestream://414e23ae192b5f3c7b14c9b51d1ed1e07b71cc1a
+
+#EXTINF:-1 tvg-logo="https://moomamedia.co.uk/wp-content/uploads/2020/09/Live-Stream.png,Football 2 (Ucraina) FHD
+acestream://3c7c7a90613e0950581ae3c030efe9a45a05e5f9
+
+#EXTINF:-1 tvg-logo="https://moomamedia.co.uk/wp-content/uploads/2020/09/Live-Stream.png,Football 3 (Ucraina) FHD
+acestream://7a4149f8bb0f26dd77e530be20ecfa5a03d55b29
+=====50FPS======
+#EXTINF:-1 tvg-logo="https://moomamedia.co.uk/wp-content/uploads/2020/09/Live-Stream.png,23h55 Zenith-Bruges 1 RU HD 50FPS
+acestream://92550ac34357a69bf6c734145fa359197d62fec0
+
+#EXTINF:-1 tvg-logo="https://moomamedia.co.uk/wp-content/uploads/2020/09/Live-Stream.png,23h55 Dynamo Kiev-Juventus 1 RU HD 50FPS
+acestream://92550ac34357a69bf6c734145fa359197d62fec0
+
+#EXTINF:-1 tvg-logo="https://moomamedia.co.uk/wp-content/uploads/2020/09/Live-Stream.png,2h00 Rennes-Krasnodar 1 RU HD 50FPS
+acestream://92550ac34357a69bf6c734145fa359197d62fec0
+
+#EXTINF:-1 tvg-logo="https://moomamedia.co.uk/wp-content/uploads/2020/09/Live-Stream.png,2h00 PSG-Man Utd 1 RU HD 50FPS
+acestream://92550ac34357a69bf6c734145fa359197d62fec0
+
+#EXTINF:-1 tvg-logo="https://moomamedia.co.uk/wp-content/uploads/2020/09/Live-Stream.png,2h00 Lazio-Dortmund 1 RU HD 50FPS
+acestream://92550ac34357a69bf6c734145fa359197d62fec0
+
