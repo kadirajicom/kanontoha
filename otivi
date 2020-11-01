@@ -8,9 +8,13 @@ acestream://92550ac34357a69bf6c734145fa359197d62fec0
 acestream://153e4a4098ada1e6150a5e62cdd58db806fddada
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Match-Futbol-3-Logo.png",Матч! Футбол 3 HD
-
 acestream://70b20efc8b27aa84025b7fe5752dea186429b08c
-#EXTINF:-1 tvg-logo="https://moomamedia.co.uk/wp-content/uploads/2020/09/Live-Stream.png,Sports Feeds
+
+#EXTINF:-1 tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png",Sports Feeds 1
+acestream://5910a56fcbef6cb7be5aa97374c4fe858c69d6e3
+
+#EXTINF:-1 tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png",Sports Feeds 2
 acestream://8205effc1d0a50790030fe6ec041d43f0686ca7d
+
 
 
