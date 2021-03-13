@@ -1,3 +1,6 @@
+#EXTINF:-1 group-title="Local-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png",CNN
+acestream://62c27e39283c1e57d6798274e244bdc08db46c20
+
 #EXTINF:-1 group-title="Feed Sports" tvg-logo="https://static.acestream.net/sites/acestream/img/ACE-logo.png",Channel 1
 acestream://62c27e39283c1e57d6798274e244bdc08db46c20
 
