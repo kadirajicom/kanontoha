@@ -4,6 +4,9 @@ acestream://62c27e39283c1e57d6798274e244bdc08db46c20
 #EXTINF:-1 group-title="Deportes_ACE_Stream",Siaran 1
 acestream://dd85df87baf0095e605eebe14df9dec3fbb26e42
 
+#EXTINF:-1 group-title="Maleo",Maleo TV
+https://m3u-editor.com/serve/c063bfb0-6878-11eb-8a07-87e42f15d2c4/207369323
+
 #EXTINF:-1 group-title="Acestream Futboll",Vamos 1
 acestream://40516b6eaae947ee39def2a668e4afa85b71fcb4
 
