@@ -13,9 +13,14 @@ acestream://70b20efc8b27aa84025b7fe5752dea186429b08c
 #EXTINF:-1 group-title="Music",Music Top
 acestream://525c29bc6f8833400c639187b831075bed5d49f9
 
-#EXTINF:-1 tvg-logo="#",Q-Music
+#EXTINF:-1 group-title="Music",Q-Music
 acestream://eee1c04a92611f8e110350b90372570deb536cd9
 
+#EXTINF:-1 group-title="Movie",Остросюжетное HD
+acestream://84b27b33a6e7b057904e667684136bc108371f6c
+
+#EXTINF:-1 group-title="Adult",Остросюжетное HD
+acestream://512d21052629e67dbfc6b71306393a24792ccd80
 
 
 
