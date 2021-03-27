@@ -10,8 +10,11 @@ acestream://153e4a4098ada1e6150a5e62cdd58db806fddada
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Match-Futbol-3-Logo.png",Матч! Футбол 3 HD
 acestream://70b20efc8b27aa84025b7fe5752dea186429b08c
 
-#EXTINF:-1 group-title="Maleo",Maleo TV
-https://m3u-editor.com/serve/c063bfb0-6878-11eb-8a07-87e42f15d2c4/207369323
+#EXTINF:-1 group-title="Music",Russian Musicbox
+acestream://7b54527156adbe27208bfb37e983d56eaabb93ad
+
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Match-Futbol-1-Logo.png",Матч! Футбол 1 HD
+acestream://92550ac34357a69bf6c734145fa359197d62fec0
 
 
 
