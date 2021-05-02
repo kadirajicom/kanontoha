@@ -24,3 +24,6 @@ acestream://57ab0d9ba31c747dd3e089cf32aac1e372422551
 
 #EXTINF:-1 group-title="Sports",Bein Sports XTRA
 acestream://be67595c5abfeecff35deaa7fbfd325df47afd0f
+
+#EXTINF:-1 group-title="Sports",Laliga
+acestream://c9adbb4ee0fc67fa97ba51c32870d79491c4e33d
